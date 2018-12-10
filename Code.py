@@ -3,6 +3,7 @@ import numpy as np
 '''
 In our board, 0 represents the missing numbers
 or the blanks.
+Python 2.7
 '''
 
 #finds whether x in arr or not
